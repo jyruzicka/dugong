@@ -8,3 +8,10 @@ svg rect {
 }
 
 .gen-0 rect {stroke-width: 4; }
+
+.dugong {
+	width: 100%;
+	max-height: 800px;
+}
+
+line.gen-1 {stroke-dasharray: 10,10;}
