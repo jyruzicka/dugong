@@ -50,4 +50,6 @@ You can customize dugong.js by altering a variety of proprties before calling `D
 * `Dugong.canvasMargin`: Margin to leave around the outside of the map [default: 100]
 * `Dugong.boxMargin`: Margin to leave between each node box and the text it contains [default: 10]
 
-## Using 
+## Hacking
+
+Dugong is released using the MIT license, so feel free to modify as appropriate for use in your projects should you wish.
